@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/teamiff_surveys_ltd/static/css/main.d5a52f48.css",
+    "main.js": "/teamiff_surveys_ltd/static/js/main.347dc15e.js",
+    "static/js/453.5a6b1965.chunk.js": "/teamiff_surveys_ltd/static/js/453.5a6b1965.chunk.js",
+    "index.html": "/teamiff_surveys_ltd/index.html",
+    "main.d5a52f48.css.map": "/teamiff_surveys_ltd/static/css/main.d5a52f48.css.map",
+    "main.347dc15e.js.map": "/teamiff_surveys_ltd/static/js/main.347dc15e.js.map",
+    "453.5a6b1965.chunk.js.map": "/teamiff_surveys_ltd/static/js/453.5a6b1965.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d5a52f48.css",
+    "static/js/main.347dc15e.js"
+  ]
+}
